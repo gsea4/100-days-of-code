@@ -16,3 +16,12 @@
 **Thoughts:** Spent quite a long time on database homework from school but happy that it's working. Right now I'm having 3 different pages for 3 different sections of my portfolio. Will need to research on how to make cool transition between pages.
 
 **Link to work:** To be provided.
+
+
+### Day 3: July 25, 2017 
+
+**Today's Progress**: Added animated transitions between "pages" for my portfolio. Stayed up til 3 AM to work on school's database project
+
+**Thoughts:** It's been a rough day today. School's database project is killing me, but I'm happy that I was able to spend some time to make progress on my portfolio
+
+**Link to work:** To be provided.
