@@ -25,3 +25,12 @@
 **Thoughts:** It's been a rough day today. School's database project is killing me, but I'm happy that I was able to spend some time to make progress on my portfolio
 
 **Link to work:** To be provided.
+
+
+### Day 4: July 26, 2017 
+
+**Today's Progress**: Making some progress on using CSS for page transition for portfolio.
+
+**Thoughts:** Started to watch tutorials on using CSS for animation. I thought it was really hard, turn out it's not that bad, I believe I can improve a lot on this.
+
+**Link to work:** To be provided.
