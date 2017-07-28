@@ -34,3 +34,11 @@
 **Thoughts:** Started to watch tutorials on using CSS for animation. I thought it was really hard, turn out it's not that bad, I believe I can improve a lot on this.
 
 **Link to work:** To be provided.
+
+### Day 5: July 27, 2017 
+
+**Today's Progress**: Done with transition between pages. Happy with it so far. Made progress on database project for school.
+
+**Thoughts:** After testing with different approahces for transitions, since my page is pretty simple so I stick with just having animation when each page is loaded.
+
+**Link to work:** http://23.95.215.14/portfolio/
