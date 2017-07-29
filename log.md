@@ -42,3 +42,13 @@
 **Thoughts:** After testing with different approahces for transitions, since my page is pretty simple so I stick with just having animation when each page is loaded.
 
 **Link to work:** http://23.95.215.14/portfolio/
+
+
+### Day 6: July 28, 2017 
+
+**Today's Progress**: D6 #100DaysOfCode Couldn't do much today on my portfolio. Added a contact page. PHP/MySQL project due Monday. Made some progress on it today
+
+**Thoughts:** Just added a default Bootstrap form on my contact me page. Will need to customize it later. Made progress on database project. Was frustrated I couldn't get the PHP file to display a list of tables on the webpage at first. Took me like an hour to figure it out, but at least I learned something new and made progress on my project
+
+**Link to work:** http://23.95.215.14/portfolio/
+
