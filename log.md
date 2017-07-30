@@ -52,3 +52,14 @@
 
 **Link to work:** http://23.95.215.14/portfolio/
 
+### Day 7: July 29, 2017 
+
+**Today's Progress**: D7 #100DaysOfCode Worked on school's database project with mysql & PHP. Will get back to portfolio after this project is finished on Monday
+
+**Thoughts:** I was so frustrated because my code kept breaking; turned out mainly due to syntax error like missing a semi-colon, quote, or bracket; and sometimes got JavaScript and PHP mixed up.
+
+**Link to work:** 
+Portfolio: http://23.95.215.14/portfolio/
+School's Database Project: http://cs.okstate.edu/~hhuynh/main.php
+
+
