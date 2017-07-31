@@ -62,4 +62,16 @@
 Portfolio: http://23.95.215.14/portfolio/
 School's Database Project: http://cs.okstate.edu/~hhuynh/main.php
 
+### Day 8: July 30, 2017 
+
+**Today's Progress**: D8 #100DaysOfCode Finally done with school's MySQL/PHP project. Now I can focus on my portfolio and other challenges on #freecodecamp 
+
+**Thoughts:** Have been working on this school's project for a few weeks. Was struggling but at least I've completed it now. Feeling so satisfied. Now I can have more time to focus on other things.
+
+**Link to work:** 
+Portfolio: http://23.95.215.14/portfolio/
+School's Database Project: http://cs.okstate.edu/~hhuynh/main.php
+
+
+
 
