@@ -73,5 +73,14 @@ Portfolio: http://23.95.215.14/portfolio/
 School's Database Project: http://cs.okstate.edu/~hhuynh/main.php
 
 
+### Day 9: July 31, 2017 
 
+**Today's Progress**: D9 #100DaysOfCode  Finally get the twitter button to work using Twitter's widgets on my random quote machine challenge.
+
+**Thoughts:** Feeling a lot better now. I'm able to create a share tweet button dynamically.
+
+**Link to work:** 
+Random Quote: https://codepen.io/Gsea4/pen/jwXbQw
+Portfolio: http://23.95.215.14/portfolio/
+School's Database Project: http://cs.okstate.edu/~hhuynh/main.php
 
