@@ -85,7 +85,7 @@ Portfolio: http://23.95.215.14/portfolio/
 School's Database Project: http://cs.okstate.edu/~hhuynh/main.php
 
 
-### Day 9: July 31, 2017 
+### Day 10: August 1, 2017 
 
 **Today's Progress**: D10 #100DaysOfCode  wasn't able to do much since I have a final tomorrow. At least got 1 FCC Intermediate  Algorithm Scripting exercise done
 
