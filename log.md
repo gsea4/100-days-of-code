@@ -96,3 +96,18 @@ Random Quote: https://codepen.io/Gsea4/pen/jwXbQw
 Portfolio: http://23.95.215.14/portfolio/
 School's Database Project: http://cs.okstate.edu/~hhuynh/main.php
 
+
+### Day 11: August 2, 2017 
+
+**Today's Progress**: D11 #100DaysOfCode  Was tired today. Completed one more JS Algorithm challenge. Worked on Random Quote, still stuck with the Tweet Button.
+
+**Thoughts:** Was tired from the final test at school. Frustrated with Twitter Button, it seems like I cannot control it properly. Will tackle it again tomorrow
+
+**Link to work:** 
+Random Quote: https://codepen.io/Gsea4/pen/jwXbQw
+Portfolio: http://23.95.215.14/portfolio/
+School's Database Project: http://cs.okstate.edu/~hhuynh/main.php
+
+
+
+
