@@ -108,6 +108,21 @@ Random Quote: https://codepen.io/Gsea4/pen/jwXbQw
 Portfolio: http://23.95.215.14/portfolio/
 School's Database Project: http://cs.okstate.edu/~hhuynh/main.php
 
+### Day 12: August 3, 2017 
+
+**Today's Progress**:D12#100DaysOfCode forgot to tweet last night. Finished the quote generator, and weather app was working great until the API went down LOL
+
+**Thoughts:** Didn't know the API was down at first. Keep looking at my code for error but couldn't find one. It was interesting
+
+**Link to work:** 
+https://codepen.io/Gsea4/pen/mMOPbG
 
 
+### Day 13: August 4, 2017 
 
+**Today's Progress**: I continue working on the Weather App. Switching from using FCC Weather API to OpenWeather API
+
+**Thoughts:** Not really
+
+**Link to work:** 
+https://codepen.io/Gsea4/pen/mMOPbG
