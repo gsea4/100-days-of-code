@@ -126,3 +126,12 @@ https://codepen.io/Gsea4/pen/mMOPbG
 
 **Link to work:** 
 https://codepen.io/Gsea4/pen/mMOPbG
+
+### Day 13: August 5, 2017 
+
+**Today's Progress**: Applied weather-icon css to my Weather App.
+
+**Thoughts:** None
+
+**Link to work:** 
+https://codepen.io/Gsea4/pen/mMOPbG
