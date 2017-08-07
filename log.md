@@ -127,11 +127,21 @@ https://codepen.io/Gsea4/pen/mMOPbG
 **Link to work:** 
 https://codepen.io/Gsea4/pen/mMOPbG
 
-### Day 13: August 5, 2017 
+### Day 14: August 5, 2017 
 
 **Today's Progress**: Applied weather-icon css to my Weather App.
 
 **Thoughts:** None
+
+**Link to work:** 
+https://codepen.io/Gsea4/pen/mMOPbG
+
+
+### Day 15: August 6, 2017 
+
+**Today's Progress**: D15 #100DaysOfCode  Added a use of another API for City and State since OpenWeather API doesn't return state or I haven't found out yet.
+
+**Thoughts:** I couldn't do much today since I had to help my counsin with the Git problem he was having.
 
 **Link to work:** 
 https://codepen.io/Gsea4/pen/mMOPbG
