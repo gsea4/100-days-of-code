@@ -145,3 +145,12 @@ https://codepen.io/Gsea4/pen/mMOPbG
 
 **Link to work:** 
 https://codepen.io/Gsea4/pen/mMOPbG
+
+### Day 16: August 7, 2017 
+
+**Today's Progress**: D16#100DaysOfCode Almost done w weather app. Just need to test the toggle button. Started on next challenge Wiki Viewer
+
+**Thoughts:** Feeling I'm making progress.
+
+**Link to work:** 
+https://codepen.io/Gsea4/pen/mMOPbG
