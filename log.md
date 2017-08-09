@@ -154,3 +154,14 @@ https://codepen.io/Gsea4/pen/mMOPbG
 
 **Link to work:** 
 https://codepen.io/Gsea4/pen/mMOPbG
+
+### Day 17: August 8, 2017 
+
+**Today's Progress**: D17 #100DaysOfCode Finished the Weather App challenge. Completed one Intermediate Algorithm problem.Continue working on WikiViewer Challenge
+
+**Thoughts:** Happy that I'm able to finish the Weather App. Got so frustrated with the Wiki API, trying to read for hours but couldn't find how to get a list of pages with page IDs on them(for searching link). But I'm feeling better because I found out about generator and extracts
+
+**Link to work:** 
+https://codepen.io/Gsea4/pen/mMOPbG
+
+
