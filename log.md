@@ -164,4 +164,14 @@ https://codepen.io/Gsea4/pen/mMOPbG
 **Link to work:** 
 https://codepen.io/Gsea4/pen/mMOPbG
 
+### Day 18: August 9, 2017 
+
+**Today's Progress**: D18 #100DaysOfCode Worked on WikiViewer today and made it working. Will work on styling it tomorrow. Happy that I make progress everyday
+
+
+**Thoughts:** Functionality of the page is working now and I'm satisfied about it.
+
+**Link to work:** 
+https://codepen.io/Gsea4/pen/mMOPbG
+
 
