@@ -172,6 +172,6 @@ https://codepen.io/Gsea4/pen/mMOPbG
 **Thoughts:** Functionality of the page is working now and I'm satisfied about it.
 
 **Link to work:** 
-https://codepen.io/Gsea4/pen/mMOPbG
+https://codepen.io/Gsea4/full/rzywdJ/
 
 
