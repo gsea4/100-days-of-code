@@ -175,3 +175,15 @@ https://codepen.io/Gsea4/pen/mMOPbG
 https://codepen.io/Gsea4/full/rzywdJ/
 
 
+### Day 19: August 10, 2017 
+
+**Today's Progress**: D19 #100DaysOfCode Added some styling to my Wiki Viewer, struggling with chaining animation on each item retrieve from Wiki.
+
+
+**Thoughts:** Stuck with animation. I want each item retrieve by the Wiki API to be fade in one by one. Will do some more research on chain animation.
+
+**Link to work:** 
+https://codepen.io/Gsea4/full/rzywdJ/
+
+
+
