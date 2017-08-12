@@ -185,5 +185,13 @@ https://codepen.io/Gsea4/full/rzywdJ/
 **Link to work:** 
 https://codepen.io/Gsea4/full/rzywdJ/
 
+### Day 20: August 11, 2017 
 
+**Today's Progress**: Finished the Wikipedia Viewer.
+
+
+**Thoughts:** Feeling happy that I'm able to finish another project
+
+**Link to work:** 
+https://codepen.io/Gsea4/full/rzywdJ/
 
