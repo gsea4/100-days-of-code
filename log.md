@@ -185,6 +185,7 @@ https://codepen.io/Gsea4/full/rzywdJ/
 **Link to work:** 
 https://codepen.io/Gsea4/full/rzywdJ/
 
+
 ### Day 20: August 11, 2017 
 
 **Today's Progress**: Finished the Wikipedia Viewer.
@@ -194,4 +195,15 @@ https://codepen.io/Gsea4/full/rzywdJ/
 
 **Link to work:** 
 https://codepen.io/Gsea4/full/rzywdJ/
+
+
+### Day 21: August 12, 2017 
+
+**Today's Progress**: Get started on Twitchtv JSON API challenge. Tested the API links, and was able to get it to work.
+
+
+**Thoughts:** 
+
+**Link to work:** 
+https://codepen.io/Gsea4/full/MvvzVY/
 
