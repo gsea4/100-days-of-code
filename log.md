@@ -207,3 +207,15 @@ https://codepen.io/Gsea4/full/rzywdJ/
 **Link to work:** 
 https://codepen.io/Gsea4/full/MvvzVY/
 
+
+### Day 22: August 13, 2017 
+
+**Today's Progress**: D22 #100DaysOfCode Pretty much done with the functionality of Twitch Streamers challenge. Will work on styling tomorrow.
+
+
+**Thoughts:** 
+
+**Link to work:** 
+https://codepen.io/Gsea4/full/MvvzVY/
+
+
