@@ -219,3 +219,12 @@ https://codepen.io/Gsea4/full/MvvzVY/
 https://codepen.io/Gsea4/full/MvvzVY/
 
 
+### Day 23: August 14, 2017 
+
+**Today's Progress**: Finally finished the last project Twitch Streamers of Intermediate Front End Development Projects.
+
+
+**Thoughts:** Feeling happy that I've made a lot of progress so far. Moving on to next challenges
+
+**Link to work:** 
+https://codepen.io/Gsea4/full/MvvzVY/
