@@ -228,3 +228,13 @@ https://codepen.io/Gsea4/full/MvvzVY/
 
 **Link to work:** 
 https://codepen.io/Gsea4/full/MvvzVY/
+
+
+### Day 24: August 14, 2017 
+
+**Today's Progress**: Finished 2 Intermediate Algorithm Challenges. Continued working on portfolio
+
+
+**Thoughts:** Feeling determined to get my portfolio working great
+
+**Link to work:** 
