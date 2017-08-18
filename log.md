@@ -229,12 +229,29 @@ https://codepen.io/Gsea4/full/MvvzVY/
 **Link to work:** 
 https://codepen.io/Gsea4/full/MvvzVY/
 
+### Day 24: August 15, 2017 
 
-### Day 25: August 15, 2017 
+**Today's Progress**: D24 #100DaysOfCode Finished 2 Intermediate Algorithms, worked on portfolio page.
+
+**Thoughts:**
+
+**Link to work:** 
+
+
+### Day 25: August 16, 2017 
 
 **Today's Progress**: Knocked down 5 Intermediate Algorithm Challenges
 
 
 **Thoughts:** Challenges were interesting. Demanded me to research more advanced topics on Javascript
+
+**Link to work:** 
+
+
+### Day 26: August 17, 2017 
+
+**Today's Progress**: Couldn't do much today. Just 2 more Intermediate Algorithm Challenges
+
+**Thoughts:** Feeling tired today but I tried
 
 **Link to work:** 
