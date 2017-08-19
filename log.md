@@ -255,3 +255,12 @@ https://codepen.io/Gsea4/full/MvvzVY/
 **Thoughts:** Feeling tired today but I tried
 
 **Link to work:** 
+
+
+### Day 27: August 18, 2017 
+
+**Today's Progress**: D27 #100DaysOfCode I was tempted to not doing anything tonight, but in the end, I was able to completed 3 more Inter. Algorithm challenges.
+
+**Thoughts:** I was able to beat my laziness to do some coding tonight.
+
+**Link to work:** 
