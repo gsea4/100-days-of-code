@@ -264,3 +264,13 @@ https://codepen.io/Gsea4/full/MvvzVY/
 **Thoughts:** I was able to beat my laziness to do some coding tonight.
 
 **Link to work:** 
+
+
+### Day 28: August 19, 2017 
+
+**Today's Progress**: D28 #100DaysOfCode was away from home the entire day and super tired, but I tried to finish 2 more Algorithms chellenges
+
+**Thoughts:** I went to a trip with coworkers at my department for a whole day. Thought I couldn't code today but I was able to get 2 problems down. Feeling proud of myself
+
+**Link to work:** 
+
