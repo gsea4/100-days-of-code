@@ -274,3 +274,13 @@ https://codepen.io/Gsea4/full/MvvzVY/
 
 **Link to work:** 
 
+
+### Day 29: August 20, 2017 
+
+**Today's Progress**: D29 #100DaysOfCode Making more progress on Algorithm Challenges. WIll finish it tomorrow and move on to advanced algorithms.
+
+**Thoughts:** Learned a lot from today's challenges. Overthink the issue and have to do some steps manually even though there are built in functions already. Need to pay more attention on that.
+
+**Link to work:** 
+
+
