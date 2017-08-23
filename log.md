@@ -284,3 +284,18 @@ https://codepen.io/Gsea4/full/MvvzVY/
 **Link to work:** 
 
 
+### Day 30: August 21, 2017 
+
+**Today's Progress**:D30 #100DaysOfCode  Forgot to tweet last night, so here I go, finished intermediate algorithm challenge section, and 1 advanced algorithm
+
+**Thoughts:** Finally finished the intermediate challenge. Feeling very happy about it
+
+**Link to work:** 
+
+### Day 31: August 22, 2017 
+
+**Today's Progress**:D31 #100DaysOfCode Started reading a textbook about software engineering
+
+**Thoughts:** Wasn't able to do much today.
+
+**Link to work:** 
