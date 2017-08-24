@@ -299,3 +299,11 @@ https://codepen.io/Gsea4/full/MvvzVY/
 **Thoughts:** Wasn't able to do much today.
 
 **Link to work:** 
+
+### Day 32: August 23, 2017 
+
+**Today's Progress**:D32 #100DaysOfCode  Couldn't do much today since I didn't get home til 11, but was able to complete 1 more advanced algorithm
+
+**Thoughts:** 
+
+**Link to work:** 
