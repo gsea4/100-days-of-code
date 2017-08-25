@@ -307,3 +307,11 @@ https://codepen.io/Gsea4/full/MvvzVY/
 **Thoughts:** 
 
 **Link to work:** 
+
+### Day 33: August 24, 2017 
+
+**Today's Progress**: Finish another Advanced Algorithm challenge. Going slowly. One at a time, and I will get there
+
+**Thoughts:** Making progress slowly but I will still do it. Slow progress is better than no progress
+
+**Link to work:** 
