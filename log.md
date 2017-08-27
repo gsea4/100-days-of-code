@@ -315,3 +315,20 @@ https://codepen.io/Gsea4/full/MvvzVY/
 **Thoughts:** Making progress slowly but I will still do it. Slow progress is better than no progress
 
 **Link to work:** 
+
+### Day 34: August 25, 2017 
+
+**Today's Progress**: Started to rebuild my portfolio page.
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+### Day 35: August 26, 2017 
+
+**Today's Progress**: Making progress on portfolio. This time, started with mobile first approach
+
+**Thoughts:**
+
+**Link to work:** 
