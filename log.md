@@ -332,3 +332,12 @@ https://codepen.io/Gsea4/full/MvvzVY/
 **Thoughts:**
 
 **Link to work:** 
+
+### Day 36: August 27, 2017 
+
+**Today's Progress**: D36 #100DaysOfCode Making more progress responsiveness of my portfolio. Feeling optimistic about it.
+
+**Thoughts:**
+
+**Link to work:** 
+
