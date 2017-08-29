@@ -341,3 +341,10 @@ https://codepen.io/Gsea4/full/MvvzVY/
 
 **Link to work:** 
 
+### Day 37: August 28, 2017 
+
+**Today's Progress**: Making progress on portfolio. It's going well
+
+**Thoughts:**
+
+**Link to work:** 
