@@ -348,3 +348,13 @@ https://codepen.io/Gsea4/full/MvvzVY/
 **Thoughts:**
 
 **Link to work:** 
+
+
+### Day 38: August 29, 2017 
+
+**Today's Progress**: D38 #100DaysOfCode Added more animation to my portfolio. Practiced data structures and algorithms for my class
+
+**Thoughts:** Feeling tired but happy at the same time since I'm making progress on the project.
+
+**Link to work:** 
+
