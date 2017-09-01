@@ -358,3 +358,10 @@ https://codepen.io/Gsea4/full/MvvzVY/
 
 **Link to work:** 
 
+### Day 39 + Day 40: August 30 + Augst 31, 2017 
+
+**Today's Progress**: D39+40 #100DaysOfCode Forgot to tweet yesterday. Making more progress on my portfolio. Layout is done, populating content of the site.
+
+**Thoughts:** 
+
+**Link to work:** 
