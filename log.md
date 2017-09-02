@@ -365,3 +365,12 @@ https://codepen.io/Gsea4/full/MvvzVY/
 **Thoughts:** 
 
 **Link to work:** 
+
+### Day 41: September 1, 2017 
+
+**Today's Progress**: D41 #100DaysOfCode Did some research on UML and some other Software Engineering concepts
+
+**Thoughts:** 
+
+**Link to work:** 
+
