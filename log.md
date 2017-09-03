@@ -374,3 +374,10 @@ https://codepen.io/Gsea4/full/MvvzVY/
 
 **Link to work:** 
 
+### Day 42: September 2, 2017 
+
+**Today's Progress**: D42 #100DaysOfCode Practicing building UML diagrams, IDEF diagrams, and some algorithms
+
+**Thoughts:** 
+
+**Link to work:** 
