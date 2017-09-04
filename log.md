@@ -381,3 +381,11 @@ https://codepen.io/Gsea4/full/MvvzVY/
 **Thoughts:** 
 
 **Link to work:** 
+
+### Day 43: September 3, 2017 
+
+**Today's Progress**: Did quite a lot of information modeling today
+
+**Thoughts:** It was tough but I learnt a lot from this.
+
+**Link to work:** 
