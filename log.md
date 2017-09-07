@@ -389,3 +389,11 @@ https://codepen.io/Gsea4/full/MvvzVY/
 **Thoughts:** It was tough but I learnt a lot from this.
 
 **Link to work:** 
+
+### Day 44 + Day 45: September 4 + 5, 2017 
+
+**Today's Progress**: Doing more modeling. Getting stuck with modeling processes
+
+**Thoughts:** 
+
+**Link to work:** 
