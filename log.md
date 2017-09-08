@@ -397,3 +397,12 @@ https://codepen.io/Gsea4/full/MvvzVY/
 **Thoughts:** 
 
 **Link to work:** 
+
+### Day 46: September 7, 2017 
+
+**Today's Progress**: D46 #100DaysOfCode  Researching developing Android on Unity for my Lab work at school
+
+**Thoughts:**
+
+**Link to work:**
+
